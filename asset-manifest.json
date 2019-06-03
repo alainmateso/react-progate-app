@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-progate-app/static/css/main.4b668b81.chunk.css",
+    "main.js": "/react-progate-app/static/js/main.37cdcbe0.chunk.js",
+    "main.js.map": "/react-progate-app/static/js/main.37cdcbe0.chunk.js.map",
+    "runtime~main.js": "/react-progate-app/static/js/runtime~main.f70ad93f.js",
+    "runtime~main.js.map": "/react-progate-app/static/js/runtime~main.f70ad93f.js.map",
+    "static/css/2.7ca0545f.chunk.css": "/react-progate-app/static/css/2.7ca0545f.chunk.css",
+    "static/js/2.255b29e2.chunk.js": "/react-progate-app/static/js/2.255b29e2.chunk.js",
+    "static/js/2.255b29e2.chunk.js.map": "/react-progate-app/static/js/2.255b29e2.chunk.js.map",
+    "index.html": "/react-progate-app/index.html",
+    "precache-manifest.62614f2c4e1bcf2c46cd2f2c24151439.js": "/react-progate-app/precache-manifest.62614f2c4e1bcf2c46cd2f2c24151439.js",
+    "service-worker.js": "/react-progate-app/service-worker.js",
+    "static/css/2.7ca0545f.chunk.css.map": "/react-progate-app/static/css/2.7ca0545f.chunk.css.map",
+    "static/css/main.4b668b81.chunk.css.map": "/react-progate-app/static/css/main.4b668b81.chunk.css.map",
+    "static/media/all.min.css": "/react-progate-app/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/picture.jpg": "/react-progate-app/static/media/picture.98d86047.jpg"
+  }
+}
